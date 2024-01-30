@@ -1,4 +1,4 @@
-// CMPS 3350 - lab 02 is all about git
+// CMPS 3350 - lab 02 is all about git and its proper usage
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
