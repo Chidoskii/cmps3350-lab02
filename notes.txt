@@ -1,0 +1,1 @@
+ I have some experience using git. Previously I was using it all wrong. I would make commits by editing the files directly on GitHub. It wasn't until recently that I started using git properly (or better at least). Now whenever I create a new directory in VS code, I always run git init. 
